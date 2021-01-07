@@ -1,0 +1,16 @@
+table
+{
+	border:solid 10px white;
+	border-collapse:collapse;
+	
+} 
+th,td,tr
+{
+	padding:1em;
+	border:solid 4px white;
+}
+caption
+{
+	font-weight:bold;
+	font-size:2em;
+} 

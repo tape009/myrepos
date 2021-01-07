@@ -1,0 +1,130 @@
+*
+{
+	margin:0;
+	padding:0;
+} 
+body
+{
+background-color:#140F0F;
+} 
+
+
+
+div
+{
+	width: 1300px;
+	height:1300px;
+	margin:0 auto;
+	background-color:#280200;
+	
+}
+header
+{
+	
+	height: 300px;
+	width:1250px;
+	padding: 25px;
+	margin-bottom:10px;
+	background:url(smt123.jpg);
+	
+	
+} 
+
+
+nav
+{
+	width:1280px;
+ background-color:#970801;
+	padding:10px;
+	margin-bottom:10px;
+	text-align:center;
+} 
+nav li
+{
+	display:inline;
+	padding-right: 50px;
+	
+}
+
+aside
+{
+	width:400px;
+	height: 500px;
+	margin: 0 10px 10px 0;
+	background-color:#373232;
+	float: right; 
+
+}
+ a:link 
+{
+	color:black;
+} 
+ a:hover
+{
+	color: black;
+
+}
+ a:visited
+{
+	color: black;
+	
+}
+
+
+section
+{
+	width:865px;
+	height: 1100px;
+	margin: 0 0 10px 0; 
+	padding:10px;
+	background-color:#373232;
+	float:left;
+} 
+
+
+footer
+{
+	padding:10px;
+	background-color: teal; 
+	clear: both;
+	
+	
+}
+aside a
+{
+	font-size:3em;
+	text-align: center;
+}
+h3
+{
+	font-size:1.5em;
+	color: #9E1C15;
+}
+P
+{
+	color: #ACACAD;
+	font-size: 1.5em;
+} 
+h2
+{
+	color: #9E1C15;
+	
+	font-size: 2.5em;
+} 
+h1
+{
+	
+	font-size:3em;
+	text-align: center;
+}
+section img
+{
+	float:right ;
+	
+}
+
+.rew
+{
+	font-size: 2.5em;
+}
+
